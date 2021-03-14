@@ -1,0 +1,2 @@
+# georesource
+Práctica
