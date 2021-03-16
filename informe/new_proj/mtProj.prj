@@ -1,0 +1,8 @@
+Calibration data path = ./calData
+Time data path = ./timeData
+Spectra data path = ./specData
+Statistics data path = ./statData
+Mask data path = ./maskData
+TransFunc data path = ./transFuncData
+Image data path = ./images
+Reference time = 2021-02-2 20:00:00

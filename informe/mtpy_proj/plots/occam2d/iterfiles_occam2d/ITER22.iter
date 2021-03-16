@@ -1,0 +1,88 @@
+Format:             OCCAMITER_FLEX
+Description:        startup created by mtpy
+Model File:         Occam2DModel
+Data File:          OccamDataFile.dat
+Date/Time:          No date and time available on this system.
+Iterations to run:  100
+Target Misfit:       1.200
+Roughness Type:       1
+Diagonal Penalties: 0
+Stepsize Cut Count:   8
+!Model Limits:        min,max
+!Model Value Steps:   stepsize (e.g. 0.2 or 0.1)
+Debug Level:          1
+Iteration:           22
+Lagrange Value:        5.000000    
+Roughness Value:                NaN
+Misfit Value:                   NaN
+Misfit Reached:       0
+Param Count:         275
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN

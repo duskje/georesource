@@ -1,0 +1,38 @@
+Unscaled data 2021-02-02 20:23:00 to 2021-02-02 20:27:59.998047 read in from measurement ./timeData/site1/meas_2021-02-02_20-23-00, samples 0 to 153599
+Sampling frequency 512.0
+Scaling channel Ex with scalar -3.73086875e-08 to give mV
+Dividing channel Ex by electrode distance 0.01 km to give mV/km
+Scaling channel Ey with scalar -3.73366875e-08 to give mV
+Dividing channel Ey by electrode distance 0.01 km to give mV/km
+Scaling channel Hx with scalar -5.97311e-07 to give mV
+Scaling channel Hy with scalar -5.97293e-07 to give mV
+Scaling channel Hz with scalar -2.983245e-07 to give mV
+Remove zeros: False, remove nans: False, remove average: True
+---------------------------------------------------
+Calculating project spectra
+Using default configuration
+Channel Ex not calibrated
+Channel Ey not calibrated
+Channel Hx not calibrated
+Channel Hy not calibrated
+Channel Hz not calibrated
+Decimating with 7 levels and 7 frequencies per level
+Evaluation frequencies for this level 128.0, 90.50966799187808, 64.0, 45.25483399593904, 32.0, 22.62741699796952, 16.0
+Windowing with window size 512 samples and overlap 128 samples
+Performing fourier transform with window function hamming
+Time data decimated from 512.0 Hz to 64.0 Hz, new start time 2021-02-02 20:23:00, new end time 2021-02-02 20:27:59.984375
+Evaluation frequencies for this level 11.31370849898476, 8.0, 5.65685424949238, 4.0, 2.82842712474619, 2.0, 1.414213562373095
+Windowing with window size 512 samples and overlap 128 samples
+Performing fourier transform with window function hamming
+Time data decimated from 64.0 Hz to 8.0 Hz, new start time 2021-02-02 20:23:00, new end time 2021-02-02 20:27:59.875000
+Evaluation frequencies for this level 1.0, 0.7071067811865475, 0.5, 0.35355339059327373, 0.25, 0.17677669529663687, 0.125
+Windowing with window size 512 samples and overlap 128 samples
+Performing fourier transform with window function hamming
+Spectra data written out to ./specData/site1/meas_2021-02-02_20-23-00/spectra on 2021-03-02 03:49:51.245478 using resistics 0.0.6
+---------------------------------------------------
+Reading spectra data in path ./specData/site1/meas_2021-02-02_20-23-00/spectra
+Using default configuration
+Calculating statistic: coherence
+Statistic components: cohExHx, cohExHy, cohEyHx, cohEyHy
+Statistic data for statistic coherence written to ./statData/site1/meas_2021-02-02_20-23-00/spectra on 2021-03-13 05:23:55.003919 using resistics 0.0.6
+---------------------------------------------------

@@ -1,0 +1,598 @@
+ STARTING R.M.S. =               NaN
+ ** ITERATION            1  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION            2  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION            3  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION            4  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION            5  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION            6  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION            7  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION            8  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION            9  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           10  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           11  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           12  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           13  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           14  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           15  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           16  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           17  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           18  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           19  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           20  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           21  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           22  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           23  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           24  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           25  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           26  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           27  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           28  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           29  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           30  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           31  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           32  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           33  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           34  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           35  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           36  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           37  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           38  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           39  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           40  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           41  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           42  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           43  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           44  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           45  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           46  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           47  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           48  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           49  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
+ ROUGHNESS IS =               NaN
+  
+ STARTING R.M.S. =               NaN
+ ** ITERATION           50  **
+ TOFMU: MISFIT =              NaN  AMU =   5.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   4.00000000    
+ TOFMU: MISFIT =              NaN  AMU =   6.61803389    
+ TOFMU: MISFIT =              NaN  AMU =   5.61803389    
+ MINIMUM TOL FROM fminocc IS AT MU =   5.00000000    
+ AND IS =              NaN
+ USING            4  EVALUATIONS OF FUNCTION
+ STEPSIZE IS =               NaN
