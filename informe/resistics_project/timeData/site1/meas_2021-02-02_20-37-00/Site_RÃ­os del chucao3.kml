@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<kml xmlns="http://earth.google.com/kml/2.0">
-  <Placemark>
-    <name>Ríos del chucao3</name>
-    <Point>
-      <coordinates>-71.713418333333,-36.293400000000,210.180000000000</coordinates>
-    </Point>
-  </Placemark>
-</kml>
